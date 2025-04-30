@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "FH Cordelia";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/HCKS-FHCordelia.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "SVN Hottroof Semhesta";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/SVN-Hottroof%20Semhesta.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Bold Italic";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Bold%20Italic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Bold";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Book Italic";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Book%20Italic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Book";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Book.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Light Italic";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Light%20Italic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Light";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Light.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Medium Italic";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Medium%20Italic.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Delta Jaeger Medium";
+  src: url("https://storage.googleapis.com/teko-landing-builder-cdn/tempi-editor-v2/font-static-file/fonts/Delta%20Jaeger%20Medium.ttf")
+    format("truetype");
+}
